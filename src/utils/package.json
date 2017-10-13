@@ -1,0 +1,16 @@
+{
+  "name": "@lego-ui/utils",
+  "version": "1.0.0",
+  "description": "Utilities for lego-ui",
+  "authors": [
+    "moocss <moocss@gmail.com> (https://github.com/moocss)"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^2.4.0"
+  }
+}

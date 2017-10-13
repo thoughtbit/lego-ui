@@ -1,0 +1,14 @@
+{
+  "name": "@lego-ui/components",
+  "version": "1.0.0",
+  "description": "Components for lego-ui",
+  "authors": [
+    "moocss <moocss@gmail.com> (https://github.com/moocss)"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": ""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

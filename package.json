@@ -1,0 +1,38 @@
+{
+  "name": "@thoughtbit/lego-ui",
+  "version": "1.0.0",
+  "description": "一个面向未来的、灵活的、低耦合的CSS解决方案",
+  "keywords": [
+    "browser",
+    "css",
+    "normalize-css",
+    "postcss",
+    "style"
+  ],
+  "authors": [
+    "moocss <moocss@gmail.com> (https://github.com/moocss)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thoughtbit/lego-ui/issues"
+  },
+  "repository": "https://github.com/thoughtbit/lego-ui.git",
+  "homepage": "https://github.com/thoughtbit/lego-ui#readme",
+  "files": [
+    "index.css",
+    "index.js",
+    "lib"
+  ],
+  "style": "index.css",
+  "scripts": {
+    "start": "npm run build",
+    "bootstrap": "lerna bootstrap --hoist",
+    "test": "npm run lint",
+    "lint": "stylelint /src/**/*.css",
+    "build": "lerna run build"
+  },
+  "devDependencies": {
+    "lerna": "^2.4.0",
+    "@thoughtbit/stylelint-config": "^1.0.0"
+  }
+}

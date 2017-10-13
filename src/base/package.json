@@ -1,0 +1,14 @@
+{
+  "name": "@lego-ui/base",
+  "version": "1.0.0",
+  "description": "CSS base styles",
+  "authors": [
+    "moocss <moocss@gmail.com> (https://github.com/moocss)"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": ""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
